@@ -43,3 +43,8 @@ Z | X | C | V
 ## Resources
 
 https://tobiasvl.github.io/blog/write-a-chip-8-emulator/ 
+
+## Other images
+
+![Breakout](./images/Breakout.png)
+![Tetris](./images/Tetris.png)
