@@ -2,10 +2,7 @@
 
 An 8-bit chip emulator written in C, using the SDL2 library.
 
-![Breakout](./images/Breakout.png)
-![Tetris](./images/Tetris.png)
-![Pong]((./images/Pong.png))
-
+![Pong](./images/Pong.png)
 
 ## Installation
 
